@@ -1,7 +1,7 @@
 ---
-title: "Blog"
+title: "Tags"
 layout: archive
-permalink: /categories/blog
+permalink: /categories/tags
 author_profile: false
 sidebar_main: true
 ---

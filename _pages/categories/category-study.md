@@ -1,7 +1,8 @@
 ---
-title: "Blog"
+---
+title: "Study"
 layout: archive
-permalink: /categories/blog
+permalink: /categories/study
 author_profile: false
 sidebar_main: true
 ---
